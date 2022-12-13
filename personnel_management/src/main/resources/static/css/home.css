@@ -1,0 +1,11 @@
+.bar {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	width: 100%;
+}
+
+hr.solid {
+  border-top: 3px solid #222222;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
